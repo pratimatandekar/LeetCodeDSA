@@ -1,6 +1,6 @@
 package dsa.Expression4;
 import java.util.Stack;
-public class Convert {
+public class Convert {   //ye infix to postfix ka hi version hai.
     private String infix, postfix;
 
     public Convert(String infix) {
